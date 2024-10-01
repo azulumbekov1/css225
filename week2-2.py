@@ -1,0 +1,6 @@
+first_name = input("Please enter your name:")
+last_name= input("Please enter your last name:")
+middle_name= input("Please enter your middle name:")
+age=input("How old are you "+ first_name+ "?")
+print("Hello" , first_name, last_name,middle_name, "nice to meet you!")
+print(first_name, "you were born in the year", 2024-int(age))
